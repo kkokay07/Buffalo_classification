@@ -1,0 +1,39 @@
+{
+  "model_type": "Hard Voting Ensemble",
+  "base_classifiers": [
+    "LogisticRegression",
+    "SVM_Linear",
+    "DecisionTree"
+  ],
+  "classes": [
+    "BHA",
+    "MEH",
+    "MUR",
+    "PAN",
+    "SUR"
+  ],
+  "n_classes": 5,
+  "n_snps": 15,
+  "snps": [
+    "16:17564855_A",
+    "13:24946589_C",
+    "8:87405714_G",
+    "18:14783829_A",
+    "18:14771259_A",
+    "18:14771190_T",
+    "6:15745241_A",
+    "6:15745265_C",
+    "18:14771081_T",
+    "12:51415001_C",
+    "18:14862319_C",
+    "5:45668429_A",
+    "6:75209013_A",
+    "7:63595541_T",
+    "15:1079673_C"
+  ],
+  "accuracy": 1.0,
+  "parameters": {
+    "test_size": 0.2,
+    "random_state": 42
+  }
+}
