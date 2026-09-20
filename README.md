@@ -54,9 +54,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
-## How to Use — Step by Step
+## How to Use: Step by Step
 
-### Step 1–2: PLINK quality control
+### Step 1-2: PLINK quality control
 
 ```bash
 bash 1_plink_qc.sh
@@ -173,7 +173,7 @@ Benchmarks Gradient Boosting (scikit-learn XGBoost equivalent) and Gaussian Naiv
 
 ---
 
-## Repository Structure
+## Repository Structure (in your parent folder, once you execute all the steps)
 
 ```
 ├── 1_plink_qc.sh                     # Step 1–2: QC
@@ -216,7 +216,7 @@ Benchmarks Gradient Boosting (scikit-learn XGBoost equivalent) and Gaussian Naiv
 
 ## Citation
 
-Currently the paper is under peer review in a reputed journal. Citation will be added once the paper get published.
+Currently this paper is under peer review in a reputed journal. Citation will be added once the paper get published.
 
 ## License
 
