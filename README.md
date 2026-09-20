@@ -210,8 +210,8 @@ Benchmarks Gradient Boosting (scikit-learn XGBoost equivalent) and Gaussian Naiv
 
 ## Citation
 
-If you use this pipeline, please cite the accompanying manuscript (see `Buffalo_Breed_Classification_Manuscript.docx`) and the relevant methodological references: Wright (1951), Rosenberg et al. (2002), Shriver et al. (2003), Crum et al. (2019), and Alexander et al. (2009, ADMIXTURE).
+Currently the paper is under peer review in a reputed journal. Citation will be added once the paper get published.
 
 ## License
 
-Add your chosen license here.
+MIT license.
