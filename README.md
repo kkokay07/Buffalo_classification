@@ -203,10 +203,16 @@ Benchmarks Gradient Boosting (scikit-learn XGBoost equivalent) and Gaussian Naiv
 
 ## Key Results (from the study)
 
-- **Best classifiers:** SVM (linear kernel) and MLP — **93.75% test accuracy**, F1 = 0.933, MCC = 0.842, AUC = 1.000
+- **Best classifiers:** SVM (linear kernel) and MLP:  **93.75% test accuracy**, F1 = 0.933, MCC = 0.842, AUC = 1.000
 - **Population structure (ADMIXTURE):** best K = 5 by CV error; DRA is highly distinct (95.2% unique ancestry)
 - **Reference panel:** 78/96 individuals retained after applying the ≥ 80% ancestry criterion (18 admixed individuals removed)
 - **BIMs:** a compact panel of top-ranked AIM ∪ iHS SNPs sufficient for near-perfect breed assignment
+
+## Authors
+
+[Rangasai Chandra Goli](https://scholar.google.com/citations?user=e-_I-e4AAAAJ&hl=en)
+[Kanaka KK](https://scholar.google.com/citations?user=0dQ7Sf8AAAAJ&hl=en)
+[Madhusudan Reddy Nandineni](https://cdfd.org.in/research-details/14/dr-madhusudan-reddy-nandineni)
 
 ## Citation
 
