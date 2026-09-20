@@ -210,8 +210,8 @@ Benchmarks Gradient Boosting (scikit-learn XGBoost equivalent) and Gaussian Naiv
 
 ## Authors
 
-[Rangasai Chandra Goli](https://scholar.google.com/citations?user=e-_I-e4AAAAJ&hl=en)
-[Kanaka KK](https://scholar.google.com/citations?user=0dQ7Sf8AAAAJ&hl=en)
+[Rangasai Chandra Goli](https://scholar.google.com/citations?user=e-_I-e4AAAAJ&hl=en) |
+[Kanaka KK](https://scholar.google.com/citations?user=0dQ7Sf8AAAAJ&hl=en) |
 [Madhusudan Reddy Nandineni](https://cdfd.org.in/research-details/14/dr-madhusudan-reddy-nandineni)
 
 ## Citation
